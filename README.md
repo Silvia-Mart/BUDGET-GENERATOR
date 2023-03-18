@@ -20,12 +20,6 @@ Para a criação do projeto: Budget Generator usamos a linguagem **Python 3**
 
 📁**Como Executar o Programa** 
 
-clonar o repositorio na sua maquina
-abrir a pasta do projeto
-abrir o terminal na pasta do projeto
-colar o comando no terminal python .\BudgetGenerator.py
-
-
 *   **Clone o repositório na sua máquina,**
 *   **Abra a pasta do projeto no seu pc,**
 *   **Abra o terminal na pasta do projeto,**
