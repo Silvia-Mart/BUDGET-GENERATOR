@@ -23,7 +23,7 @@ Para a criação do projeto: Budget Generator usamos a linguagem **Python 3**
 *   **Clone o repositório na sua máquina,**
 *   **Abra a pasta do projeto no seu pc,**
 *   **Abra o terminal na pasta do projeto,**
-*   **Intale as bibliotecas : locale e FPDF com " pip install locale && pip install FPDF ",**
+*   **Intale as bibliotecas : locale, FPDF e PySimpleGUI com " pip install locale && pip install FPDF && pip install PySimpleGUI",**
 *   **Cole o comando " python .\BudgetGenerator.py " no terminal.**
 
 
